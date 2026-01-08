@@ -40,7 +40,9 @@ Database: SQLite / MySQL
 
 Version Control: Git & GitHub
 
-Project Structure
+## Project Structure
+
+```
 JOB_PORTAL_APPLICATION/
 │
 ├── static/
@@ -49,6 +51,8 @@ JOB_PORTAL_APPLICATION/
 ├── database.db
 ├── requirements.txt
 └── README.md
+```
+
 
 Installation & Setup
 1. Clone the Repository
