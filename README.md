@@ -42,14 +42,13 @@ Version Control: Git & GitHub
 
 Project Structure
 JOB_PORTAL_APPLICATION/
-│── static/
-│── templates/
-│── app.py
-│── database.db
-│── requirements.txt
-│── README.md
-└── other files…
-
+│
+├── static/
+├── templates/
+├── app.py
+├── database.db
+├── requirements.txt
+└── README.md
 
 
 Installation & Setup
