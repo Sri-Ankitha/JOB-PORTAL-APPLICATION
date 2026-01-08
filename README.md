@@ -50,6 +50,7 @@ JOB_PORTAL_APPLICATION/
 │── README.md
 └── other files…
 
+
 Installation & Setup
 1. Clone the Repository
 git clone https://github.com/Sri-Ankitha/JOB-PORTAL-APPLICATION.git
